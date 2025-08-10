@@ -58,8 +58,8 @@ position = Vector2(1136, 456)
 texture = ExtResource("3_a1ds0")
 
 [node name="Label" type="Label" parent="."]
-offset_left = 56.0
-offset_top = 416.0
-offset_right = 1048.0
-offset_bottom = 960.0
-text = "PEENAR"
+offset_left = 496.0
+offset_top = 424.0
+offset_right = 1488.0
+offset_bottom = 968.0
+text = "PISS"
